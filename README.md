@@ -1,9 +1,9 @@
 <h2 align="center">
-Hi 👋 I'm Lucas Tavares
+Hi, I'm Lucas Tavares
 </h2>
 
 <h4 align="center">
-Computer Science Undergraduate (6/8) | Python, Data Analysis & AI 
+Computer Science Undergraduate (6/8) | Python, Data Analysis & AI
 </h4>
 
 ---
@@ -22,30 +22,25 @@ I enjoy building projects that transform data into insights and experimenting wi
 
 ### 🛠️ Tech Stack
 
-**Languages**
-- Python
+**Languages & Data**
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="30" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" height="30" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" height="30" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" height="30" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" height="30" />
+</div>
 
-**Data & AI**
-- Pandas
-- NumPy
-- Jupyter Notebook
-- Scikit-learn *(learning)*
-
-**Web**
-- CSS3
-
-**Tools**
-- Git
-
----
-
-### 🎨 Design & Media Tools (Additional Skills)
-
-- CorelDRAW  
-- Sony Vegas Pro 8  
-- Adobe Photoshop
-  
-*Used for visual materials, presentations, and project demonstrations.*
+**Web & Tools**
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="30" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="30" />
+</div>
 
 ---
 
@@ -61,7 +56,5 @@ I enjoy building projects that transform data into insights and experimenting wi
 
 ### 🎯 Career Goal
 
-Seeking opportunities as a **Junior Data Analyst, Python Developer, or AI-focused professional**, where I can apply analytical thinking and continue growing in **data-driven and AI environments**.
-
-
+Seeking opportunities as a **Python Developer specialized in Data & AI**, where I can apply analytical thinking and continue growing in **data-driven and AI-focused environments**.
 
