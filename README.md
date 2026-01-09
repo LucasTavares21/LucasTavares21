@@ -3,7 +3,7 @@ Hi, I'm Lucas Tavares
 </h2>
 
 <h4 align="center">
-Computer Science Undergraduate (6/8) | Python, Data Analysis & AI
+Undergraduate in Computer Science (6th semester of 8) | Python, Data Analysis & AI
 </h4>
 
 ---
