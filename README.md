@@ -44,7 +44,7 @@ I enjoy building projects that transform data into insights and experimenting wi
 - CorelDRAW  
 - Sony Vegas Pro 8  
 - Adobe Photoshop
-- 
+  
 *Used for visual materials, presentations, and project demonstrations.*
 
 ---
