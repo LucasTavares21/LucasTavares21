@@ -1,20 +1,67 @@
-<h2 align="left">Hi there! My name is Lucas Tavares and I'm a Computer Scientist </h2>
+<h2 align="center">
+Hi 👋 I'm Lucas Tavares
+</h2>
 
-###
+<h4 align="center">
+Computer Science Undergraduate (6/8) | Python, Data Analysis & AI 
+</h4>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasTavares21&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasTavares21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+### 👨‍💻 About Me
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
+I'm an undergraduate **Computer Science student (6th semester out of 8)** with a strong interest in **Data Analysis, Artificial Intelligence, and Python**.  
 
+I also hold a technical degree in **Computer Networks from SENAI**, which provided me with a solid foundation in networking, infrastructure, and systems.
+
+Currently, I'm focused on improving my skills in **data manipulation, exploratory analysis, and applied machine learning** using Python.
+
+I enjoy building projects that transform data into insights and experimenting with AI models.
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+- Python
+
+**Data & AI**
+- Pandas
+- NumPy
+- Jupyter Notebook
+- Scikit-learn *(learning)*
+
+**Web**
+- CSS3
+
+**Tools**
+- Git
+
+---
+
+### 🎨 Design & Media Tools (Additional Skills)
+
+- CorelDRAW  
+- Sony Vegas Pro 8  
+- Adobe Photoshop
+- 
+*Used for visual materials, presentations, and project demonstrations.*
+
+---
+
+### 📚 Currently Learning
+
+- Python for Data Analysis  
+- Data cleaning and preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Machine Learning fundamentals  
+- Applied AI with Python  
+
+---
+
+### 🎯 Career Goal
+
+Seeking opportunities as a **Junior Data Analyst, Python Developer, or AI-focused professional**, where I can apply analytical thinking and continue growing in **data-driven and AI environments**.
 
 
 
